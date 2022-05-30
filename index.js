@@ -1,6 +1,7 @@
 var drum = true;
 
 function TocarMusica(som, arquivo) {
+    
     var som = new Audio(arquivo);
     som.play();
 }
