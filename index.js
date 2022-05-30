@@ -49,16 +49,16 @@ function fazerSom(key) {
     } else {
         switch (key) {
             case "z":
-                TocarMusica("tom1", "sounds/pare.wav")
+                TocarMusica("tom1", "sounds/Pare.wav")
                 break;
             case "x":
-                TocarMusica("tom2", "sounds/uepa.wav")
+                TocarMusica("tom2", "sounds/UEPA.wav")
                 break;
             case "c":
                 TocarMusica("tom3", "sounds/ratinho.wav")
                 break;
             case "v":
-                TocarMusica("tom4", "sounds/iha.wav")
+                TocarMusica("tom4", "sounds/IHA.wav")
                 break;
             case "b":
                 TocarMusica("crash", "sounds/rapaz.wav")
